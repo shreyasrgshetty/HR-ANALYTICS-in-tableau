@@ -39,4 +39,4 @@ Understand employee satisfaction levels.
 
 Track demographic and educational factors influencing retention.
 
-📷 Dashboard Preview :
+📷 Dashboard Preview : https://github.com/shreyasrgshetty/HR-ANALYTICS-in-tableau/blob/main/HR%20ANALYTICS.png
